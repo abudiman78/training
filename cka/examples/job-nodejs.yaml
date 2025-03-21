@@ -1,13 +1,14 @@
 apiVersion: batch/v1
 kind: Job
 metadata:
-  name: nodejs-job
+  name: parallel-job
 spec:
-  completions: 4
-  parallelism: 2
+  completions: 10
+  parallelism: 5
   template:
     spec:
-      restartPolicy: Never
       containers:
-        - name: nodejs-job
-          image: khannedy/nodejs-job
+      - name: worker
+        image: busybox
+        command: ["sh", "-c", "echo Processing task..."]
+      restartPolicy: Never
