@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="774eba5c-d8e7-41b2-900d-96acb4554a6c" name="k8s-master">
+        <fileTransfer rootFolder="/home/arief/lab" accessType="SFTP" host="192.168.100.10" port="22" sshConfigId="162288cb-c925-4515-84c8-eb07ca06f0ff" sshConfig="arief@192.168.100.10:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
