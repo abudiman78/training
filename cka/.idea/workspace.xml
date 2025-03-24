@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc7fbb62-9b60-47c2-88d8-2e6a784ef5ee" name="Changes" comment="delete idea">
-      <change afterPath="$PROJECT_DIR$/task/Answer/Replicas dan Deployment.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Answer/3. Service.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/Answer/Replicas dan Deployment.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +84,7 @@
       <workItem from="1742568082784" duration="662000" />
       <workItem from="1742568830794" duration="4616000" />
       <workItem from="1742599307005" duration="21047000" />
-      <workItem from="1742785906756" duration="751000" />
+      <workItem from="1742785906756" duration="16977000" />
     </task>
     <task id="LOCAL-00001" summary="delete idea">
       <option name="closed" value="true" />
